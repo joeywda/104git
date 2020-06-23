@@ -1,0 +1,58 @@
+余祥文 自述
+
+          您好！後學，出生於宜蘭縣，生於民國六十五年八月二十四日。從小家教嚴格，對我的人格養有正面影響。培養出我能獨立思考的個性，從而較一般人多的學習的熱情與持久的毅力，對程式設計之類的抽象工作，需要長時間思考與練習實作的任務有很大的幫助。
+    因為之前完全沒有寫程式與學術論文的經驗，在整個控制流程與策略的設計規劃上倍加辛苦。好在指導教授與直屬學長的細心指導下，憑藉學習的熱情與毅力，從中學到一個計劃案的規劃技巧，並完成論文的題目。
+         在求學過程中，上大學的時候，便感到自己的知識有限，無法掌握生涯的方向。於是便下定決心要繼續求學以充實自己的智能，便以虛心認真的求學態度完成大學學業，並以優異的成績考試上海洋大學機械所熱流組。  在研究所中不但學到更多的理論基礎，如計算流體力學、熱交換器設計、熱傳導、熱對流以及熱流實驗方法，更學習到數位控制、A/D&D/A卡的使用、FORTRAN程式語言、Matlab程式語言等。
+         我的論文題目是以程式模擬孔狀材料內滲透及熱傳研究，是以有限元素演算法模擬孔狀材料內滲透及熱傳。在這全程推導與自行設計FORTRAN程式撰寫的過程中對熱傳有更深入的瞭解與認識。非常感謝學校教授幫我開啟程式設計的大門。
+
+工作經驗：幼獅職業訓練場，中華映管，鼎沛電子，南亞科技
+
+勞動部勞動力發展署幼獅職業訓練場 跨平台網路應用班108年B期 : 
+職稱 : 學員
+工作期間 : 2019/9~2019/12
+因為感覺到 5G 的時代即將來到，希望結合以前在工業 3D 設計十年的經驗， 配合資訊程式設計的技術，延續到網站設計工作的職場能力。所以特別報名跨平台網路程式設計訓練班。承蒙 導師 : 戴德仁， MVC 專科老師 : 許志強，響應式網頁  專科老師 : 麥睿恩，UML 專科老師 : 洪福成 等 細心的指導，從只會 製作機械與光學工程分析程式 的機械工程師，入門到 網路程式設計技術。所學習的 課程 包括 : ASP.net MVC，自適應網頁，MS-SQL 資料庫系統，JQuery，C# 程式語言，HTML5 + JavaScript + CSS3，系統分析與設計。
+專題製作題目為  "線上試衣間與雲端智慧衣櫃"。
+
+因為初次開發多有遺漏不妥的地方。但在老師關鍵的指導與同學熱心的建議下，臭蟲越來越少，功能越來越多。除了增加自己的信心之外，更希望能為 5G的市場貢獻一點心力。
+    寫程式向來是很抽象的工作，剛開始從CAD這樣具體的工具轉作coding的作業還不太能適應。往往一個錯誤的參數就要花一兩個小時來debug，很難預測完成時間。經過職訓一個月的作業練習，比較能適應這種挫折感。發覺coding工作遇到困難時，有同學一起debug會更有效率。雖然我的專題是一個人發想的，卻借用很多同學的程式來修改，除錯也常常請教同學，否則物件導向觀念都不熟的初學者，在3個月內完成專題並發佈到Azure一個人是很難做到的。
+
+專題測試網址 : www.devstudio.com.tw/web108b/web108b03
+
+說明投影片 : 
+https://docs.google.com/presentation/d/e/2PACX-1vTPg5hRV0QAZ_dnM4kIwEnA0Y_GDqUBQ4finiPcxbYz6CmZOsBuQA_9eDsImmlDL-YmUU8tOFMEzZuR/pub?start=false&loop=false&delayms=3000
+
+
+中華映管股份有限公司 : 
+職稱 : 高級工程師 (機構設計)
+工作期間 : 2004/9~2018/6
+正當 LCD 蓬勃發展。轉職至該司面臨更大的生產規模，開發流程從散熱模組2個月增加到 LCD模組6個月至一年。零件從單純 機構件 變成包含光學玻璃，電路元件與背光元件，BOM 的複雜度相對提高，但在 SAP的整合下，專案竟也神奇的如期完成。在驚嘆之餘，我被託與CAD圖檔管理與LED材料資料庫建立的工作 進而開始接觸 MS Access VBA 的關聯式資料庫使用，除了正規化與多對多觀念的了解，並時常使用SQL 語法來找 LED資料，使效率提高很多。
+    同樣是設計的工作，LCD 模組的工作涵蓋的技術更多 (色彩學，幾何光學，機構…)，包含的零件更多。初次參加專案，開會成員矩陣就包含迴路，Array，Cell，設計，工廠，PM 就有三十幾人。一面開會溝通加上一面設計，每天都不能熬夜，因為設計的工作要持續二個月，這週熬夜下週可就沒有體力撐下去了。所幸同事的幫忙與主管指導大方向，最後專案小錯誤難免大錯沒有，產品順利轉量產。而後有經驗後就知道重點在哪裡，重複實作也讓處理任務的速度加快。
+
+鼎沛電子 : 
+職稱 : 熱傳工程師
+工作期間 : 2003/11~2004/9
+在該司學習熱管製作與散熱模組的設計。所完成的專案有AMD K8 Cooler 開發與浩鑫準系統SB81P散熱設計等。初次擔當散熱模組設計工程師，因為一個模組產品需要很多種供應商，只有把BOM 表做好才能有效控制 專案的生產時間，了解 BOM 的重要性。
+    因為渴望做設計工作，初次轉職設計工作。與工廠的作業方式不同的是要負責把自己的設計圖面與工程演算做好外，還要把自己的設計規格書傳達給工廠組裝員，外包零件供應商，更重要的是不斷修正符合客戶的需求。然後被客戶留到午夜解問題，又是另一個故事了。
+
+
+南亞科技 : 
+職稱 : 電漿蝕刻設備工程師
+工作期間 : 2002/6~2003/6
+第一份工作為南亞科技八吋晶圓廠的電漿蝕刻設備工程師，遇到的問題主要可分為兩項，機械與電路。由於我曾有六年工具機訓練的培養，所以當任何蝕刻設備零件損壞時，我有能力直接尋找Local廠商製作新品換裝，在最短的時間內復機，節省金錢與down  time的時間。在工作上深深的體會到台塑企業於工廠管理的嚴謹態度，並於工作3個月後可獨立執行夜班，可一個人管理20多部的自動化機台，並接觸 DRAM 生產 CIM 的操作經驗，感受到電腦整合製造如何團結各部門來維持生產極致的能力。
+    初次工作就加入科技業，面對每一台都是上億價值的設備，每一天的處理的產品都是上千萬的價值。操作設備實在非常緊張。但畢竟南亞科技是一個大型組織，跟隨組織的安排一步一步的學習與實作，每個人都把自己的工作做好，DRAM 產品經過32次的循環，上百道的製程，在工廠2個月的製程，竟也神奇穩定維持在72%的良率，偶而良率破 73%還會發獎金。
+
+未來發展總結
+
+    近來因為電子商務發光發熱，有人描述AI恐消滅3.75億個職缺，又可望創造出5.55億~8.9億個工作。趁著公司轉型之際自己也做提升，也正好軟體設計也是政府政策的方向。除了入門外， 希望能在軟體業能找到立足的空間，如果有機會的話希望也能接觸UI/UX知識。   
+    而我素來對電子商務有興趣，且之前在3C電子產業做過完整的設計專案，不論是客戶的產品規格書，外包廠商的購入式樣書，生產線問題的即刻排除，品質手法，部份工程客服任務都有涉略，自認此工作會做得比資訊科系更有‘使用者體驗感’，所以毛遂自薦。                                                              
+    貴公司在業界中扮演著重要的角色，並具有旺盛的企圖心，學後亦抱持著相同的雄心壯志，希望能加入貴司工作團隊貢獻一己之力，成長，並茁壯。個人有強烈進入貴司之意願，希望貴司能夠給後學機會，發揮個人所學專長，與大家一起努力。
+
+最後感謝您在百忙之中閱讀我的自述，祝您萬事如意。謝謝！
+
+
+--------------------------------------------------------------
+
+I am Yu Hsiang Wen , was born to I Lan. In family population simple, the life is pure, the father from the labor, the mother family manages. In family two brothers and one sister, family circumstances well-off, optimistic is enterprising regarding the life manner.
+Studies the process was smooth in me, After retires from the armed services first was continues to next job. Receives the school free study atmosphere and teachers in the semester respects the student the idea. Humanist practical teaching method. Let me in the student profession, profits quite deeply. Simultaneously also lets me learn, may stand in the different angle ponders the matter. Such training, Will let me gain many Independent and the logical ponder in the future. 
+My school is the National Taiwan Ocean of University, I major in mechanical engineering . Because the school quite takes regarding the foundation course. Therefore I in correlation curriculum basic theory specialized (knowledge). It may be said quite solidly. Such experience, lets me face the different working conditions and the work content. I wish to begin in the shortest time. Specialized field in machinery control (automatic control)and heat flow (heat transfer) and Programming. I wish the job nature also can has the study in this aspect also in this aspect. 
+In this fast changing industry. Maintenance elasticity and abundant energy. Adds on does not stop the study at times the heart, is the important energy which lets oneself never stop. In mine life, the unceasing study is takes from a surplus to supply an insufficiency my life to grow importantly raises the share. Yearned for your firm provides the outstanding work and the learning environment, indebted the deep affection. The hope has the opportunity to enter your firm service, becomes in your firm big family's.
